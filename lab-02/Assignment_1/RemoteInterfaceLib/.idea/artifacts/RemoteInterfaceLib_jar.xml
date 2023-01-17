@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RemoteInterfaceLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RemoteInterfaceLib_jar</output-path>
+    <root id="archive" name="RemoteInterfaceLib.jar">
+      <element id="module-output" name="RemoteInterfaceLib" />
+    </root>
+  </artifact>
+</component>

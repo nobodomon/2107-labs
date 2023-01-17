@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RemoteInterfaceLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../RemoteInterfaceLib/out/artifacts/RemoteInterfaceLib_jar/RemoteInterfaceLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
