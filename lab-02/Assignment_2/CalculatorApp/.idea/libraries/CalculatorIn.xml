@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CalculatorIn">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CalculatorIn/out/artifacts/CalculatorIn_jar/CalculatorIn.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
