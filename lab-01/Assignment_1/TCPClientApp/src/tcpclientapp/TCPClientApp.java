@@ -16,7 +16,7 @@ public class TCPClientApp {
         try {
             //Use socket to connect to the server
             Socket socket = new Socket(hostName, port);
-            String request = "add 10";
+            String request = "divide 5 0";
             //Access to the output stream
             OutputStream os = socket.getOutputStream();
             //Write line
